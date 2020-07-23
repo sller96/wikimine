@@ -1,1 +1,1 @@
-# wikimine
+# WikiMine
